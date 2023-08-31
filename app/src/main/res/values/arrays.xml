@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_type">
+        <item>HikVision</item>
+        <item>Dahua</item>
+        <!--        <item>Other</item>-->
+    </string-array>
+</resources>

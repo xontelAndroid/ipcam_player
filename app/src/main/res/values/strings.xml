@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ipcam_player</string>
+    <string name="error_while_playing">"error "</string>
+</resources>
